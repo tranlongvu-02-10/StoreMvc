@@ -141,6 +141,14 @@
       "PackagePath": "staticwebassets\\images\\logo SGS.png"
     },
     {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\poster",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\poster-giay.jpg",
+      "PackagePath": "staticwebassets\\images\\poster-giay.jpg"
+    },
+    {
       "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\js\\search.js",
       "PackagePath": "staticwebassets\\js\\search.js"
     },

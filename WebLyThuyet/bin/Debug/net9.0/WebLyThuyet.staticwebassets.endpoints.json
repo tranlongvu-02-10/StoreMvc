@@ -12052,6 +12052,170 @@
       ]
     },
     {
+      "Route": "images/poster",
+      "AssetFile": "images/poster",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VzLTpIzP93eDIvmB36aHaSnNN9tzT2L/GDyFptlPIW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 20:31:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VzLTpIzP93eDIvmB36aHaSnNN9tzT2L/GDyFptlPIW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/poster-giay.jpg",
+      "AssetFile": "images/poster-giay.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WFA1+bppvmycg0kTzZ2xHi+oPuBHTATpmOmeoYa2jDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 20:31:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFA1+bppvmycg0kTzZ2xHi+oPuBHTATpmOmeoYa2jDY="
+        }
+      ]
+    },
+    {
+      "Route": "images/poster-giay.sjy7p7hr9s.jpg",
+      "AssetFile": "images/poster-giay.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WFA1+bppvmycg0kTzZ2xHi+oPuBHTATpmOmeoYa2jDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 20:31:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjy7p7hr9s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFA1+bppvmycg0kTzZ2xHi+oPuBHTATpmOmeoYa2jDY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/poster-giay.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/poster.d7ie2a1jbb",
+      "AssetFile": "images/poster",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VzLTpIzP93eDIvmB36aHaSnNN9tzT2L/GDyFptlPIW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 20:31:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d7ie2a1jbb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VzLTpIzP93eDIvmB36aHaSnNN9tzT2L/GDyFptlPIW4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/poster"
+        }
+      ]
+    },
+    {
       "Route": "js/search.9q3dppz04a.js",
       "AssetFile": "js/search.js.gz",
       "Selectors": [
