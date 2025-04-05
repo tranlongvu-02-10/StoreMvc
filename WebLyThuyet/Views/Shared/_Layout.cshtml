@@ -260,6 +260,43 @@
             @RenderBody()
         </main>
     </div>
+    @if (ViewContext.RouteData.Values["controller"]?.ToString() == "Home" && ViewContext.RouteData.Values["action"]?.ToString() == "Index")
+{
+    <section class="container my-5">
+        <h2 class="text-center text-primary">Why Choose Us?</h2>
+        <h3 class="text-center text-dark">Best Selling Shoes Collection</h3>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <img src="~/images/sale1.png" class="timeline-img">
+                        <div class="timeline-content">
+                            <h4>Nike Air Max</h4>
+                            <p>Comfortable and stylish, perfect for everyday wear.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <img src="~/images/sale2.png" class="timeline-img">
+                        <div class="timeline-content">
+                            <h4>Adidas Ultraboost</h4>
+                            <p>Lightweight running shoes with ultimate cushioning.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <img src="~/images/sale3.png" class="timeline-img">
+                        <div class="timeline-content">
+                            <h4>Puma RS-X</h4>
+                            <p>Trendy sneakers for those who love fashion and comfort.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 d-flex align-items-center">
+                <img src="~/images/poster.jpg" class="img-fluid rounded shadow">
+            </div>
+        </div>
+    </section>
+}
 
     <footer class="bg-white text-center text-muted py-3 mt-5 border-top">
         <div class="container">

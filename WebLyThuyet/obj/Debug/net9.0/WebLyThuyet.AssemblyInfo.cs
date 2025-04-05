@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebLyThuyet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59053ad2256eb2452badcfc30b016d29ba3eab61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b080ee0a3b2f64be7535bae4f46b59b2467146")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebLyThuyet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebLyThuyet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

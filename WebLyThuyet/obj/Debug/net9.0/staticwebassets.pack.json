@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebLyThuyet.vcjs7hfrw3.bundle.scp.css"
     },
     {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\.gitattributes",
+      "PackagePath": "staticwebassets\\.gitattributes"
+    },
+    {
       "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\cart.png",
       "PackagePath": "staticwebassets\\LVComputer\\cart.png"
     },
@@ -123,6 +127,10 @@
     {
       "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS UNIVERSE BAG.webp",
       "PackagePath": "staticwebassets\\images\\SGS UNIVERSE BAG.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\Screenshot 2025-04-03 010009.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2025-04-03 010009.png"
     },
     {
       "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\cart.png",
