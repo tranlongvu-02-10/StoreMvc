@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebLyThuyet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebLyThuyet.vcjs7hfrw3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\cart.png",
+      "PackagePath": "staticwebassets\\LVComputer\\cart.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\case-pc.png",
+      "PackagePath": "staticwebassets\\LVComputer\\case-pc.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\computer.png",
+      "PackagePath": "staticwebassets\\LVComputer\\computer.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\cpu.png",
+      "PackagePath": "staticwebassets\\LVComputer\\cpu.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\facebook.png",
+      "PackagePath": "staticwebassets\\LVComputer\\facebook.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\fan-pc.png",
+      "PackagePath": "staticwebassets\\LVComputer\\fan-pc.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\hard-disk-drive.png",
+      "PackagePath": "staticwebassets\\LVComputer\\hard-disk-drive.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\location.png",
+      "PackagePath": "staticwebassets\\LVComputer\\location.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\logo_lvcomputer.jpg",
+      "PackagePath": "staticwebassets\\LVComputer\\logo_lvcomputer.jpg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\mainboard.png",
+      "PackagePath": "staticwebassets\\LVComputer\\mainboard.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\old-typical-phone.png",
+      "PackagePath": "staticwebassets\\LVComputer\\old-typical-phone.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\pcgaming.jpg",
+      "PackagePath": "staticwebassets\\LVComputer\\pcgaming.jpg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\pcgiare.jpg",
+      "PackagePath": "staticwebassets\\LVComputer\\pcgiare.jpg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\pcworkstation.jpg",
+      "PackagePath": "staticwebassets\\LVComputer\\pcworkstation.jpg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\power-supply.png",
+      "PackagePath": "staticwebassets\\LVComputer\\power-supply.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\ram-memory.png",
+      "PackagePath": "staticwebassets\\LVComputer\\ram-memory.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\search.png",
+      "PackagePath": "staticwebassets\\LVComputer\\search.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\ssd.png",
+      "PackagePath": "staticwebassets\\LVComputer\\ssd.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\LVComputer\\vga.png",
+      "PackagePath": "staticwebassets\\LVComputer\\vga.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS BELT BUMBAG.webp",
+      "PackagePath": "staticwebassets\\images\\SGS BELT BUMBAG.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS FETCHING BACKPACK.webp",
+      "PackagePath": "staticwebassets\\images\\SGS FETCHING BACKPACK.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS FLAPPED BACKPACK.jpg",
+      "PackagePath": "staticwebassets\\images\\SGS FLAPPED BACKPACK.jpg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS FRAGRANT TOTE BAG.webp",
+      "PackagePath": "staticwebassets\\images\\SGS FRAGRANT TOTE BAG.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS MULTI POCKET BUMBAG.webp",
+      "PackagePath": "staticwebassets\\images\\SGS MULTI POCKET BUMBAG.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS NEAT BACKPACK.jpeg",
+      "PackagePath": "staticwebassets\\images\\SGS NEAT BACKPACK.jpeg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS NOIR PUFFER BAG.webp",
+      "PackagePath": "staticwebassets\\images\\SGS NOIR PUFFER BAG.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS UNIVERSE BACKPACK.jpg",
+      "PackagePath": "staticwebassets\\images\\SGS UNIVERSE BACKPACK.jpg"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\SGS UNIVERSE BAG.webp",
+      "PackagePath": "staticwebassets\\images\\SGS UNIVERSE BAG.webp"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\images\\logo SGS.png",
+      "PackagePath": "staticwebassets\\images\\logo SGS.png"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\StoreMvc\\WebLyThuyet\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebLyThuyet.props",
+      "PackagePath": "build\\WebLyThuyet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebLyThuyet.props",
+      "PackagePath": "buildMultiTargeting\\WebLyThuyet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebLyThuyet.props",
+      "PackagePath": "buildTransitive\\WebLyThuyet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

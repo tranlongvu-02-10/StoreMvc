@@ -1,0 +1,149 @@
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\dist\jquery.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\css\site.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\dist\jquery.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\dist\jquery.min.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\js\site.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\favicon.ico
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\LICENSE.txt
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery-validation\LICENSE.md
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\js\search.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\cart.png
+wwwroot\images\logo SGS.png
+wwwroot\images\SGS UNIVERSE BACKPACK.jpg
+wwwroot\js\search.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\LVComputer\cart.png
+wwwroot\LVComputer\case-pc.png
+wwwroot\LVComputer\computer.png
+wwwroot\LVComputer\cpu.png
+wwwroot\LVComputer\facebook.png
+wwwroot\LVComputer\fan-pc.png
+wwwroot\LVComputer\hard-disk-drive.png
+wwwroot\LVComputer\location.png
+wwwroot\LVComputer\logo_lvcomputer.jpg
+wwwroot\LVComputer\mainboard.png
+wwwroot\LVComputer\old-typical-phone.png
+wwwroot\LVComputer\pcgaming.jpg
+wwwroot\LVComputer\pcgiare.jpg
+wwwroot\LVComputer\pcworkstation.jpg
+wwwroot\LVComputer\power-supply.png
+wwwroot\LVComputer\ram-memory.png
+wwwroot\LVComputer\search.png
+wwwroot\LVComputer\ssd.png
+wwwroot\LVComputer\vga.png

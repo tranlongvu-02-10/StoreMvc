@@ -1,0 +1,25 @@
+﻿@model WebLyThuyet.Models.Category
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-danger text-white">
+            <h3 class="mb-0">Xóa danh mục</h3>
+        </div>
+        <div class="card-body text-center">
+            <p class="fs-5">Bạn có chắc chắn muốn xóa <strong class="text-danger">@Model.Name</strong> không?</p>
+            <form asp-action="DeleteConfirmed" method="post">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger me-2">
+                    <i class="bi bi-trash"></i> Xóa
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left"></i> Hủy
+                </a>
+            </form>
+        </div>
+    </div>
+</div>

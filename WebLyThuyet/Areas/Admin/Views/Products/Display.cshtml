@@ -1,0 +1,30 @@
+﻿@model WebLyThuyet.Models.Product
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h4 class="mb-0">@Model.Name</h4>
+                </div>
+                <div class="card-body text-center">
+                    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                    {
+                        <img src="@Model.ImageUrl" alt="Hình ảnh sản phẩm" class="img-fluid rounded shadow" style="max-width: 300px;" />
+                    }
+                    <h3 class="mt-3 text-success">💲 Giá: @Model.Price.ToString("N0") VND</h3>
+                    <p class="mt-2 text-muted">@Model.Description</p>
+                </div>
+                <div class="card-footer text-center">
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Quay lại danh sách
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

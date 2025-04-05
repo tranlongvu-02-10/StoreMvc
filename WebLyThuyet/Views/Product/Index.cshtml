@@ -1,0 +1,79 @@
+﻿@model IEnumerable<WebLyThuyet.Models.Product>
+
+<h2 class="mb-4 text-center">📦 Danh Sách Sản Phẩm</h2>
+
+<table class="table table-hover table-bordered text-center align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">Tên Sản Phẩm</th>
+            <th scope="col">Hình Ảnh</th>
+            <th scope="col">Giá</th>
+            <th scope="col">Mô Tả</th>
+            <th scope="col">Danh Mục</th>
+            <th scope="col">Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" alt="Product Image" class="img-thumbnail" style="width: 80px; height: 80px; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">Không có ảnh</span>
+                    }
+                </td>
+                <td class="text-danger fw-bold">@product.Price.ToString("N0") VNĐ</td>
+                <td>@product.Description</td>
+                <td>@product.Category?.Name</td>
+                <td>
+                    <div class="d-flex justify-content-center gap-2">
+                        <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-info btn-sm" title="Xem chi tiết">
+                            <i class="fas fa-eye"></i>
+                        </a>
+                        <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning btn-sm" title="Chỉnh sửa">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm" title="Xóa">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                        <a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@product.Id" class="btn btn-primary btn-sm" title="Thêm vào giỏ hàng">
+                            <i class="fas fa-shopping-cart"></i>
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("Admin"))
+{
+    <div class="text-center mt-3">
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus"></i> Thêm mới
+        </a>
+    </div>
+}
+
+<nav>
+    <ul class="pagination justify-content-center">
+        @if (ViewBag.TotalPages != null && ViewBag.CurrentPage != null)
+        {
+            int totalPages = ViewBag.TotalPages ?? 1;
+            int currentPage = ViewBag.CurrentPage ?? 1;
+
+            for (int i = 1; i <= totalPages; i++)
+            {
+                <li class="page-item @(i == currentPage ? "active" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+                </li>
+            }
+        }
+    </ul>
+</nav>

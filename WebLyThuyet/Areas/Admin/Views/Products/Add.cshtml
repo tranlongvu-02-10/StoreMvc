@@ -1,0 +1,64 @@
+﻿@model WebLyThuyet.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Thêm sản phẩm";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Thêm sản phẩm</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Add" method="post" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Tên sản phẩm</label>
+                            <input asp-for="Name" class="form-control" placeholder="Nhập tên sản phẩm" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Price" class="form-label">Giá</label>
+                            <input asp-for="Price" class="form-control" placeholder="Nhập giá sản phẩm" />
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Mô tả</label>
+                            <textarea asp-for="Description" class="form-control" rows="3" placeholder="Nhập mô tả sản phẩm"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="CategoryId" class="form-label">Danh mục</label>
+                            <select asp-for="CategoryId" asp-items="@ViewBag.Categories" class="form-select">
+                                <option value="">-- Chọn danh mục --</option>
+                            </select>
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="ImageUrl" class="form-label">Hình ảnh sản phẩm</label>
+                            <input type="file" asp-for="ImageUrl" class="form-control" id="imageUpload" onchange="previewImage(event)" />
+                            <div class="mt-2">
+                                <img id="imagePreview" class="img-thumbnail d-none" style="max-width: 150px;" />
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-success w-100">Thêm sản phẩm</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function previewImage(event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            var output = document.getElementById('imagePreview');
+            output.src = reader.result;
+            output.classList.remove('d-none');
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    }
+</script>

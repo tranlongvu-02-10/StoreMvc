@@ -1,0 +1,1315 @@
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.staticwebassets.endpoints.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.exe
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.deps.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.runtimeconfig.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.pdb
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Humanizer.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\QRCoder.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\scopedcss\bundle\WebLyThuyet.styles.css
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\scopedcss\projectbundle\WebLyThuyet.bundle.scp.css
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bkbzu9q3be-b9sayid5wm.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rije3qfmyp-61n19gt1b8.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qg7yzzx1f4-xtxxf3hu2r.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ih6spbqs1c-bqjiyaj88i.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\922tj6ioyj-c2jlpeoesf.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\l9chnsc2uh-erw9l3u2r3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\g6m94bkg9q-aexeepp0ev.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qjlk8x6bwf-d7shbmvgxk.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vod6lo63j0-ausgxo2sd3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pggdsvpvvk-k8d9w2qqmf.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\asekubyoq1-cosvhxvwiu.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\prnqqqfhfd-ub07r2b239.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kevjcvvikg-fvhpjtyr6v.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\88iwgyn7y9-b7pk76d08c.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\viovwpwtpg-fsbi9cje9m.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kreuvc75oq-rzd6atqjts.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\akxht3jk3h-ee0r1s7dh0.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kyi5fvy3v2-dxx9fxp4il.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\1hmedvpjpx-jd9uben2k1.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\fvnf0qhtgc-khv3u5hwcm.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\fhge5gwr6d-r4e9w2rdcm.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\zqqwxf16mj-lcd1t2u6c8.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bg4lzro81k-c2oey78nd0.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\6dxggwedsv-tdbxkamptv.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\3yhhswb5b1-j5mq2jizvt.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pwrm4vxuk1-06098lyss8.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\5usx08bo58-nvvlpmu67g.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rqfm9o3fkf-s35ty4nyc5.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vcd1pd8flu-pj5nd1wqec.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\z3zhte409g-46ein0sx1k.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\p0q41qhw51-v0zj4ognzu.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ssryy6ag33-37tfw0ft22.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\m4fymm8hsw-hrwsygsryq.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\w8s0g157no-pk9g2wxc8p.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\1sweeb5zeq-ft3s53vfgj.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\flkga5elow-6cfz1n2cew.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ma79mv3fx0-6pdc2jztkx.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\yx4n7xbpl9-493y06b0oq.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\dtr3jd2ygb-iovd86k7lj.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\13dzcolap9-vr1egmr9el.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ertgwhyoxl-kbrnm935zg.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pocwcvtucw-jj8uyg4cgr.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0w1ovcc8k0-y7v9cxd14o.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ankyok1rf4-notf2xhcfb.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\34fyn40i5d-h1s4sie4z3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\t01ui6x9sc-63fj8s7r0e.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rexn4lwsfi-0j3bgjxly4.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0evafwu9ls-47otxtyo56.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\4eprx8k1ir-4v8eqarkd7.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\jw83gotva9-356vix0kms.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\9ytzxgode2-83jwlth58m.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\86iuptwigd-mrlpezrjn3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qqejdmwx2w-lzl9nlhx6b.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kgo3z7juqq-ag7o75518u.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\tvfhwvp8sh-x0q3zqp4vz.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\530j1235rx-0i3buxo5is.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\cxd1o4ask1-o1o13a6vjx.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ooca9pdl7r-ttgo8qnofa.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0rpm8kidlw-2z0ns9nrw6.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\wclp0sbdws-muycvpuwrr.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\nf8vcoq3we-87fc7y1x7t.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\syrh63smo6-mlv21k5csn.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\z9sjd97x61-vcjs7hfrw3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\amm81losqc-vcjs7hfrw3.gz
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.build.WebLyThuyet.props
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebLyThuyet.props
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebLyThuyet.props
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThu.344E51CD.Up2Date
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\refint\WebLyThuyet.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.pdb
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\ref\WebLyThuyet.dll
+C:\Users\ASUS\Downloads\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vszpubt47q-9q3dppz04a.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\appsettings.Development.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.staticwebassets.endpoints.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\appsettings.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.staticwebassets.runtime.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.exe
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.deps.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.runtimeconfig.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.pdb
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Azure.Core.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Azure.Identity.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Humanizer.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Common.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\QRCoder.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.ClientModel.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.CodeDom.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Memory.Data.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\System.Text.Json.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.csproj.AssemblyReference.cache
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.GeneratedMSBuildEditorConfig.editorconfig
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.AssemblyInfoInputs.cache
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.AssemblyInfo.cs
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.csproj.CoreCompileInputs.cache
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.MvcApplicationPartsAssemblyInfo.cs
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.MvcApplicationPartsAssemblyInfo.cache
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.RazorAssemblyInfo.cache
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.RazorAssemblyInfo.cs
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\scopedcss\bundle\WebLyThuyet.styles.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\scopedcss\projectbundle\WebLyThuyet.bundle.scp.css
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bkbzu9q3be-b9sayid5wm.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rije3qfmyp-61n19gt1b8.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vszpubt47q-9q3dppz04a.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qg7yzzx1f4-xtxxf3hu2r.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ih6spbqs1c-bqjiyaj88i.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\922tj6ioyj-c2jlpeoesf.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\l9chnsc2uh-erw9l3u2r3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\g6m94bkg9q-aexeepp0ev.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qjlk8x6bwf-d7shbmvgxk.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vod6lo63j0-ausgxo2sd3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pggdsvpvvk-k8d9w2qqmf.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\asekubyoq1-cosvhxvwiu.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\prnqqqfhfd-ub07r2b239.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kevjcvvikg-fvhpjtyr6v.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\88iwgyn7y9-b7pk76d08c.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\viovwpwtpg-fsbi9cje9m.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kreuvc75oq-rzd6atqjts.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\akxht3jk3h-ee0r1s7dh0.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kyi5fvy3v2-dxx9fxp4il.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\1hmedvpjpx-jd9uben2k1.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\fvnf0qhtgc-khv3u5hwcm.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\fhge5gwr6d-r4e9w2rdcm.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\zqqwxf16mj-lcd1t2u6c8.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\bg4lzro81k-c2oey78nd0.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\6dxggwedsv-tdbxkamptv.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\3yhhswb5b1-j5mq2jizvt.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pwrm4vxuk1-06098lyss8.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\5usx08bo58-nvvlpmu67g.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rqfm9o3fkf-s35ty4nyc5.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\vcd1pd8flu-pj5nd1wqec.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\z3zhte409g-46ein0sx1k.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\p0q41qhw51-v0zj4ognzu.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ssryy6ag33-37tfw0ft22.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\m4fymm8hsw-hrwsygsryq.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\w8s0g157no-pk9g2wxc8p.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\1sweeb5zeq-ft3s53vfgj.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\flkga5elow-6cfz1n2cew.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ma79mv3fx0-6pdc2jztkx.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\yx4n7xbpl9-493y06b0oq.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\dtr3jd2ygb-iovd86k7lj.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\13dzcolap9-vr1egmr9el.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ertgwhyoxl-kbrnm935zg.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\pocwcvtucw-jj8uyg4cgr.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0w1ovcc8k0-y7v9cxd14o.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ankyok1rf4-notf2xhcfb.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\34fyn40i5d-h1s4sie4z3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\t01ui6x9sc-63fj8s7r0e.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\rexn4lwsfi-0j3bgjxly4.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0evafwu9ls-47otxtyo56.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\4eprx8k1ir-4v8eqarkd7.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\jw83gotva9-356vix0kms.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\9ytzxgode2-83jwlth58m.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\86iuptwigd-mrlpezrjn3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\qqejdmwx2w-lzl9nlhx6b.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\kgo3z7juqq-ag7o75518u.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\tvfhwvp8sh-x0q3zqp4vz.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\530j1235rx-0i3buxo5is.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\cxd1o4ask1-o1o13a6vjx.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\ooca9pdl7r-ttgo8qnofa.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\0rpm8kidlw-2z0ns9nrw6.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\wclp0sbdws-muycvpuwrr.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\nf8vcoq3we-87fc7y1x7t.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\syrh63smo6-mlv21k5csn.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\z9sjd97x61-vcjs7hfrw3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\compressed\amm81losqc-vcjs7hfrw3.gz
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.build.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.development.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssets.props
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.build.WebLyThuyet.props
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebLyThuyet.props
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebLyThuyet.props
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.pack.json
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThu.344E51CD.Up2Date
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\refint\WebLyThuyet.dll
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.pdb
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.genruntimeconfig.cache
+E:\HUTECH\3rd\HK II\TH LTW\WebLyThuyet\WebLyThuyet\obj\Debug\net9.0\ref\WebLyThuyet.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\appsettings.Development.json
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\appsettings.json
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.staticwebassets.runtime.json
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.staticwebassets.endpoints.json
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.exe
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.deps.json
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.runtimeconfig.json
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\WebLyThuyet.pdb
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Azure.Core.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Azure.Identity.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Humanizer.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.Common.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\QRCoder.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.ClientModel.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.CodeDom.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Memory.Data.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\StoreMvc\WebLyThuyet\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.csproj.AssemblyReference.cache
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.GeneratedMSBuildEditorConfig.editorconfig
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.AssemblyInfoInputs.cache
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.AssemblyInfo.cs
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.csproj.CoreCompileInputs.cache
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.MvcApplicationPartsAssemblyInfo.cs
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.MvcApplicationPartsAssemblyInfo.cache
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.RazorAssemblyInfo.cache
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.RazorAssemblyInfo.cs
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.sourcelink.json
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\scopedcss\bundle\WebLyThuyet.styles.css
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\scopedcss\projectbundle\WebLyThuyet.bundle.scp.css
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\bkbzu9q3be-b9sayid5wm.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\rije3qfmyp-61n19gt1b8.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\vszpubt47q-9q3dppz04a.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\qg7yzzx1f4-xtxxf3hu2r.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ih6spbqs1c-bqjiyaj88i.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\922tj6ioyj-c2jlpeoesf.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\l9chnsc2uh-erw9l3u2r3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\g6m94bkg9q-aexeepp0ev.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\qjlk8x6bwf-d7shbmvgxk.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\vod6lo63j0-ausgxo2sd3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\pggdsvpvvk-k8d9w2qqmf.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\asekubyoq1-cosvhxvwiu.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\prnqqqfhfd-ub07r2b239.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\kevjcvvikg-fvhpjtyr6v.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\88iwgyn7y9-b7pk76d08c.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\viovwpwtpg-fsbi9cje9m.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\kreuvc75oq-rzd6atqjts.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\akxht3jk3h-ee0r1s7dh0.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\kyi5fvy3v2-dxx9fxp4il.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\1hmedvpjpx-jd9uben2k1.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\fvnf0qhtgc-khv3u5hwcm.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\fhge5gwr6d-r4e9w2rdcm.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\zqqwxf16mj-lcd1t2u6c8.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\bg4lzro81k-c2oey78nd0.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\6dxggwedsv-tdbxkamptv.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\3yhhswb5b1-j5mq2jizvt.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\pwrm4vxuk1-06098lyss8.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\5usx08bo58-nvvlpmu67g.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\rqfm9o3fkf-s35ty4nyc5.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\vcd1pd8flu-pj5nd1wqec.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\z3zhte409g-46ein0sx1k.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\p0q41qhw51-v0zj4ognzu.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ssryy6ag33-37tfw0ft22.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\m4fymm8hsw-hrwsygsryq.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\w8s0g157no-pk9g2wxc8p.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\1sweeb5zeq-ft3s53vfgj.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\flkga5elow-6cfz1n2cew.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ma79mv3fx0-6pdc2jztkx.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\yx4n7xbpl9-493y06b0oq.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\dtr3jd2ygb-iovd86k7lj.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\13dzcolap9-vr1egmr9el.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ertgwhyoxl-kbrnm935zg.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\pocwcvtucw-jj8uyg4cgr.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\0w1ovcc8k0-y7v9cxd14o.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ankyok1rf4-notf2xhcfb.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\34fyn40i5d-h1s4sie4z3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\t01ui6x9sc-63fj8s7r0e.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\rexn4lwsfi-0j3bgjxly4.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\0evafwu9ls-47otxtyo56.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\4eprx8k1ir-4v8eqarkd7.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\jw83gotva9-356vix0kms.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\9ytzxgode2-83jwlth58m.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\86iuptwigd-mrlpezrjn3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\qqejdmwx2w-lzl9nlhx6b.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\kgo3z7juqq-ag7o75518u.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\tvfhwvp8sh-x0q3zqp4vz.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\530j1235rx-0i3buxo5is.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\cxd1o4ask1-o1o13a6vjx.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\ooca9pdl7r-ttgo8qnofa.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\0rpm8kidlw-2z0ns9nrw6.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\wclp0sbdws-muycvpuwrr.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\nf8vcoq3we-87fc7y1x7t.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\syrh63smo6-mlv21k5csn.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\z9sjd97x61-vcjs7hfrw3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\compressed\amm81losqc-vcjs7hfrw3.gz
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets.build.json
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets.development.json
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.WebLyThuyet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.build.WebLyThuyet.props
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebLyThuyet.props
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebLyThuyet.props
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\staticwebassets.pack.json
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThu.344E51CD.Up2Date
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.dll
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\refint\WebLyThuyet.dll
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.pdb
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\WebLyThuyet.genruntimeconfig.cache
+D:\StoreMvc\WebLyThuyet\obj\Debug\net9.0\ref\WebLyThuyet.dll

@@ -1,0 +1,25 @@
+﻿@model WebLyThuyet.Models.Category
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">Thêm danh mục</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="Add" method="post">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fw-bold"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Nhập tên danh mục" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-success">
+                    <i class="bi bi-plus-circle"></i> Thêm danh mục
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

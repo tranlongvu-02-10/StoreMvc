@@ -1,0 +1,21 @@
+﻿@model WebLyThuyet.Models.Category
+@{
+    ViewData["Title"] = "Display";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-info text-white">
+            <h3 class="mb-0">Chi tiết danh mục</h3>
+        </div>
+        <div class="card-body">
+            <h2 class="text-primary">@Model.Name</h2>
+        </div>
+        <div class="card-footer">
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Quay lại danh sách
+            </a>
+        </div>
+    </div>
+</div>

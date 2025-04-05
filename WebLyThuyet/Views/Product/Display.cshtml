@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewData["Title"] = "Display";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int numOfQuantity = 1;
+}
+
+<h1>Display</h1>
+<div class="product-container">
+    <div class="product-header">
+        <h2 class="product-title">@Model.Name</h2>
+    </div>
+
+    <div class="product-content">
+        <div class="product-image">
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" alt="@Model.Name" class="image" />
+            }
+        </div>
+
+        <div class="product-details">
+            <h3 class="product-price">@Model.Price.ToString("N0") đ</h3>
+            <p class="product-description">@Model.Description</p>
+            <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@Model.Id" asp-route-quantity="@numOfQuantity">
+                <button class="btn-buy">Mua ngay</button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<a asp-action="Index" class="back-link">Quay lại danh sách</a>
+
+<style>
+    .product-container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .product-header {
+        text-align: center;
+    }
+
+    .product-title {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .product-content {
+        display: flex;
+        gap: 20px;
+    }
+
+    .product-image img {
+        max-width: 300px;
+        border-radius: 5px;
+    }
+
+    .product-details {
+        flex: 1;
+    }
+
+    .product-price {
+        font-size: 22px;
+        color: #d00;
+    }
+
+    .product-discount .original-price {
+        text-decoration: line-through;
+        color: gray;
+    }
+
+    .btn-buy {
+        background: #007bff;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .btn-buy:hover {
+            background: #0056b3;
+        }
+
+    .back-link {
+        display: block;
+        margin-top: 10px;
+        text-align: center;
+        color: #007bff;
+    }
+</style>
+
+

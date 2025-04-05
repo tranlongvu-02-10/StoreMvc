@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Đơn Hàng";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+
+<table class="table table-hover table-striped table-bordered text-center align-middle">
+    <thead class="table-success">
+        <tr>
+            <th>#</th>
+            <th>Tên khách hàng</th>
+            <th>Email</th>
+            <th>Ngày đặt hàng</th>
+            <th>Tổng giá</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>
+                    @if (item.ApplicationUser != null)
+                    {
+                        <span class="fw-bold">@item.ApplicationUser.FullName</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">N/A</span>
+                    }
+                </td>
+                <td>
+                    @if (item.ApplicationUser != null)
+                    {
+                        <a href="mailto:@item.ApplicationUser.Email" class="text-decoration-none">@item.ApplicationUser.Email</a>
+                    }
+                    else
+                    {
+                        <span class="text-danger">N/A</span>
+                    }
+                </td>
+                <td>@item.OrderDate.ToString("dd/MM/yyyy")</td>
+                <td class="text-end">@item.TotalPrice.ToString("N2") VNĐ</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">
+                        <i class="bi bi-eye"></i> Xem
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-info">
+                        <i class="bi bi-eye"></i> Xoá
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
